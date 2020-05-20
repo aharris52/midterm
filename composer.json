@@ -1,0 +1,13 @@
+{
+  "name": "aharris/328/midterm",
+  "authors": [
+    {
+      "name": "Andrew Harris",
+      "email": "aharris@mail.greenriver.edu"
+    }
+
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
